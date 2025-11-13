@@ -11,7 +11,7 @@ Portfolio of my Coding Projects (Starting from Senior year of High School 2024)
 
 ## Skills 
 - Java | Python | C | Assembly Code
-- Data structures % algorithms
+- Data structures & algorithms
 
 ## Projects
 
