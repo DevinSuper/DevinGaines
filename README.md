@@ -3,7 +3,7 @@ Portfolio of my Coding Projects (Starting from Senior year of High School 2024)
 
 # Hi! My name is Devin Gaines👋 
 
-# About Me 
+## About Me 
 -I attend The University of Maryland
 -Intended Information Systems Major 
 -Computer Science Minor
